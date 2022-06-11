@@ -20,9 +20,9 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername= "Zoldyck_hfz" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://instagram.com/zoldyck_hfz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.github = "https://ZoldyckHfz08.github.io/" //bebas
 global.email = "zoldyckhfz08@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6281381926249" // nomor wa kalian
